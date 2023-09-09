@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+ body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: skyblue;
+        }
+        #profile-picture {
+            max-width: 200px;
+            border-radius: 50%;
+        }
